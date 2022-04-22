@@ -6,7 +6,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmqflx&layout=compact&langs_count=4"/>
 </a>
 
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor="white" alt="javascript"/>&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" alt="javascript"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"/>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React"/>&nbsp;
