@@ -3,7 +3,7 @@
 ## Skills
 
  <a href="https://github.com/dkmqflx/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmqflx&layout=compact&langs_count=4"/>
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmqflx&layout=compact&langs_count=4"/> -->
 </a>
 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" alt="javascript"/>&nbsp;
